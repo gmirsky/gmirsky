@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on building my Azure cloud skills.
+- 🌱 I’m currently learning Azure Bicep.
 
 <!--
 **gmirsky/gmirsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
